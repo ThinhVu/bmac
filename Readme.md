@@ -3,8 +3,7 @@ This project contains a "Buy me a coffee" example using <b>paypal.me</b> or <b>K
 
 #Example
 
-<img align="left" width="16" height="16" src="https://github.com/ThinhVu/bmac/blob/master/assets/icon/coffee.png?raw=true" alt="Coffee icon">
-<a style="margin-left: 5px" href="https://www.paypal.com/paypalme/vutro">Buy me a coffee</a>
+<a style="margin-left: 5px" href="https://www.paypal.com/paypalme/vutro"><img align="left" width="16" height="16" src="https://github.com/ThinhVu/bmac/blob/master/assets/icon/coffee.png?raw=true" alt="Coffee icon"> Buy me a coffee</a>
 
 or
 
