@@ -1,5 +1,5 @@
 # Buy me a coffee
-This project contains an example of Buy me a coffee using paypal.me service.<br/>
+This project contains a "Buy me a coffee" example using <b>paypal.me</b> or <b>Ko-fi</b> services.<br/>
 
 #Example
 
